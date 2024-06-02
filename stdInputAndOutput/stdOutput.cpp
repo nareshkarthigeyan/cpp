@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main(){
+int stdInputOutput(){
     // std::cout << "Hello, World!" << std::endl;
     // std::cerr << "Error!" << std::endl;
     // std::clog << "Log" << std::endl;
