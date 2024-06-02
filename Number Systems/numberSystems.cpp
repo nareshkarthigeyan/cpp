@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main ()
+int numbersystems ()
 {
     int decimal = 15;
     int octal = 017;
@@ -12,4 +12,5 @@ int main ()
     std::cout << "Number 3 is: " << hexadecimal << std::endl;
     std::cout << "Number 4 is: " << binary << std::endl;
 
+      
 }

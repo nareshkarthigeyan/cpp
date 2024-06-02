@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main (void)
+int singedAndUnsigned (void)
 {
     int value1 {11};
     int value2 {-200}; //4 bytes

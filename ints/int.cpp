@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main ()
+int aboutInts ()
 {
     // There are three ways to initialize a int.
     // Braced Initialization:
