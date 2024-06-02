@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main2()
 {
     //Printing: std::cout
     std::cout << "Hello World! ";
